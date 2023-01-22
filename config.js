@@ -62,11 +62,11 @@ global.watermark = wm
 global.wm2 = 'Ryan 𝚇 Yan'
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.packname = wm
-global.packname2 = '𝙹𝚊𝚛𝚘𝚝 𝚇 𝙾𝚜𝚌𝚊𝚛'
+global.packname2 = 'Ryan 𝚇 Yan'
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `𝙹𝚊𝚛𝚘𝚝 𝚇 𝙾𝚜𝚌𝚊𝚛`
-global.stickpack = '𝙹𝚊𝚛𝚘𝚝 𝚇 𝚘𝚜𝚌𝚊𝚛'
-global.stickauth = `𝙹𝚊𝚛𝚘𝚝 𝚇 𝙾𝚜𝚌𝚊𝚛`
+global.titlebot = `Ryan 𝚇 Yan`
+global.stickpack = 'Ryan 𝚇 Yan'
+global.stickauth = `Ryan 𝚇 Yan`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
@@ -85,12 +85,12 @@ global.sdc = '-' //discord
 global.snh = 'https://youtube.com/channel/ranggabotzofc'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.pdana = 'chat owner'
+global.pdana = '085779150501'
 global.povo = '-'
 global.pgopay = '-'
 global.plinkaja = '-' //link aja
-global.ppulsa = '085710061796'
-global.ppulsa2 = '-'
+global.ppulsa = '085779150501'
+global.ppulsa2 = '085710061796'
 global.psaweria = 'https://saweria.co/XiaomiBOT'
 
 
