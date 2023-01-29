@@ -348,7 +348,7 @@ let fot = `𝙽𝚘𝚝𝚎 𝙹𝚒𝚔𝚊 𝙼𝚎𝚗𝚎𝚖𝚞𝚔𝚊�
 `
 const listMessage = {
 footer: fot,
-text: 'Made By Jarot Offc',
+text: 'Made By RyanOfc',
 mentions: await conn.parseMention(con),
 title: con,
 buttonText: `CLICK HERE ⎙`, 
