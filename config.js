@@ -39,15 +39,15 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6285710061796', 'RyanOfc', true],
-['6285890460276', 'YanBotz', true]
+['6285881537331', 'RyanOfc', true],
+['6285881537331', 'YanBotz', true]
 ]
 global.mods = []
 global.prems = []
 global.nomorbot = '0'
-global.nomorown = '6285710061796'
-global.nomorown1 = '6285710061796'
-global.nomorown2 = '6285710061796'
+global.nomorown = '6285881537331'
+global.nomorown1 = '6285881537331'
+global.nomorown2 = '6285881537331'
 global.nomorwa = '0'
 
 
@@ -90,7 +90,7 @@ global.povo = '-'
 global.pgopay = '-'
 global.plinkaja = '-' //link aja
 global.ppulsa = '085779150501'
-global.ppulsa2 = '085710061796'
+global.ppulsa2 = '085881537331'
 global.psaweria = 'https://saweria.co/XiaomiBOT'
 
 
@@ -307,7 +307,7 @@ global.logo = 'https://i.pinimg.com/564x/f7/d2/e4/f7d2e48fd59a8c01cd396bfc70b0a2
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
 global.urlnya = "https://instagram.com/hanz_ofc_03"
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '085710061796'
+global.phn = '085881537331'
 
 global.thumbdoc = 'https://telegra.ph/file/0e4fb9bfb49f985ef053e.jpg'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ JNGN DI UBAH ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
