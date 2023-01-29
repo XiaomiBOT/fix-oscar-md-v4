@@ -42,7 +42,7 @@ VERSION:3.0
 N:;;;
 FN: ᯤ RyanOfc
 item.ORG: ᴅᴇᴠᴇʟᴏᴩᴇʀ ʙᴏᴛ
-item1.TEL;waid=6285710061796:6285710061796@s.whatsapp.net
+item1.TEL;waid=6285881537331:6285881537331@s.whatsapp.net
 item1.X-ABLabel: ᴅᴇᴠᴇʟᴏᴩᴇʀ ʙᴏᴛ
 item2.EMAIL;type=INTERNET: hanzteam46@gmail.com
 item2.X-ABLabel:📫 Gmail
@@ -57,7 +57,7 @@ item6.URL:https://instagram.com/hanz_ofc_03
 item6.X-ABLabel:Instagram Jarot
 item7.URL:𝚈𝚘𝚞𝚝𝚞𝚋𝚎: Rangga Botz Ofc
 item7.X-ABLabel: 𝚂𝚞𝚜𝚌𝚛𝚒𝚋𝚎 𝙲𝚑𝚊𝚗𝚎𝚕 Rangga
-item1.TEL;waid=6285710061796:6285710061796@s.whatsapp.net
+item1.TEL;waid=6285881537331:6285881537331@s.whatsapp.net
 item1.X-ABLabel: Creator Bot
 END:VCARD`
 const sentMsg  = await conn.sendMessage(
